@@ -1,0 +1,19 @@
+{
+  "name": "atom-tab-close-always-visible",
+  "author": {
+    "name": "Massimo Galbusera"
+  },
+  "version": "1.0.0",
+  "description": "Always shows the close icon on tabs, no more misclicks!",
+  "keywords": [
+    "tabs",
+    "close",
+    "hide"
+  ],
+  "repository": "https://github.com/maxgalbu/atom-tab-close-always-visible",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "dependencies": {}
+}
